@@ -15,9 +15,9 @@ class MainActivity: AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.btnMain.setOnClickListener {
-
-        }
+//        binding.btnMain.setOnClickListener {
+//
+//        }
     }
 
     private var exit = false

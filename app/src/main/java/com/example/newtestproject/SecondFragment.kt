@@ -22,8 +22,8 @@ class SecondFragment: Fragment() {
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        binding.btnBack.setOnClickListener {
-        }
+//        binding.btnBack.setOnClickListener {
+//        }
     }
 
     override fun onDestroy() {
